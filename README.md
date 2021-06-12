@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data analysis
 - Document here the project: TaxiFareModel
 - Description: Project Description
@@ -73,6 +72,4 @@ mkdir tmp
 cd tmp
 TaxiFareModel-run
 ```
-=======
-# TaxiFareModel
->>>>>>> d6564428776f15cbbb48e8748d064386101dd280
+
